@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main7()
 {
 	char my_string[] = "string";
 
