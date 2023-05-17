@@ -1,0 +1,5 @@
+﻿  Chapter4_7.cpp
+  Chapter4_9.cpp
+  코드를 생성하고 있습니다...
+C:\Users\dksdu\OneDrive\바탕 화면\TBCppStudy\Chapter4_7\Chapter4_7.cpp(32): warning C4715: 'computeDamage': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Chapter4_7.vcxproj -> C:\Users\dksdu\OneDrive\바탕 화면\TBCppStudy\Chapter4_7\x64\Debug\Chapter4_7.exe

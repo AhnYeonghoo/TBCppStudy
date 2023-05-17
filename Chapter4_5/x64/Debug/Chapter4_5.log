@@ -1,0 +1,4 @@
+﻿  Chapter4_5.cpp
+C:\Users\dksdu\OneDrive\바탕 화면\TBCppStudy\Chapter4_5\Chapter4_5.cpp(8,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dksdu\OneDrive\바탕 화면\TBCppStudy\Chapter4_5\Chapter4_5.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Chapter4_5.vcxproj -> C:\Users\dksdu\OneDrive\바탕 화면\TBCppStudy\Chapter4_5\x64\Debug\Chapter4_5.exe

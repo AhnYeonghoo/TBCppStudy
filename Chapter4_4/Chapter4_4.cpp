@@ -1,7 +1,10 @@
 #include <iostream>
 
+// template
 
-auto add(int x, int y)
+auto add(int x, int y) -> int;
+
+auto add(int x, int y) -> int
 {
 	return x + double(y);
 }
