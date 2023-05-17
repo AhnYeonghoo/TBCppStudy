@@ -15,31 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chapter5_2.cpp">
+    <ClCompile Include="Chapter6_1.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter5_3.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_4.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_5.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_6.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_7.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_8.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_9.cpp">
-      <Filter>헤더 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Chapter5_10.cpp">
+    <ClCompile Include="Chapter6_2.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
   </ItemGroup>
