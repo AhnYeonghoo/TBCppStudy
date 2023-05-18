@@ -12,7 +12,7 @@ void doSomething(double* ptr)
 		std::cout << "nullptr" << std::endl;
 	}
 }
-int main()
+int main9()
 {
 	double* ptr = nullptr;
 	double x = 5;
@@ -35,5 +35,6 @@ int main()
 
 	std::nullptr_t nptr;
 	
+	return 0;
 	
 }

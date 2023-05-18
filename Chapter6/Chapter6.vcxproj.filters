@@ -42,5 +42,11 @@
     <ClCompile Include="Chapter6_9.cpp">
       <Filter>헤더 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter6_10.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_11.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
