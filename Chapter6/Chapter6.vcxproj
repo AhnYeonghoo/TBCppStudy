@@ -133,7 +133,16 @@
     <ClCompile Include="Chapter6_12.cpp" />
     <ClCompile Include="Chapter6_13.cpp" />
     <ClCompile Include="Chapter6_14.cpp" />
+    <ClCompile Include="Chapter6_15.cpp" />
+    <ClCompile Include="Chapter6_16.cpp" />
+    <ClCompile Include="Chapter6_17.cpp" />
+    <ClCompile Include="Chapter6_18.cpp" />
+    <ClCompile Include="Chapter6_19.cpp" />
     <ClCompile Include="Chapter6_2.cpp" />
+    <ClCompile Include="Chapter6_20.cpp" />
+    <ClCompile Include="Chapter6_21.cpp" />
+    <ClCompile Include="Chapter6_22.cpp" />
+    <ClCompile Include="Chapter6_23.cpp" />
     <ClCompile Include="Chapter6_3.cpp" />
     <ClCompile Include="Chapter6_4.cpp" />
     <ClCompile Include="Chapter6_5.cpp" />
