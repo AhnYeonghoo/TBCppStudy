@@ -16,37 +16,46 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter6_1.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_2.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_3.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_4.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_5.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_6.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_7.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_8.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_9.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_10.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Chapter6_11.cpp">
-      <Filter>헤더 파일</Filter>
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_12.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_13.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter6_14.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

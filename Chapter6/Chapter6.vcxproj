@@ -130,6 +130,9 @@
     <ClCompile Include="Chapter6_1.cpp" />
     <ClCompile Include="Chapter6_10.cpp" />
     <ClCompile Include="Chapter6_11.cpp" />
+    <ClCompile Include="Chapter6_12.cpp" />
+    <ClCompile Include="Chapter6_13.cpp" />
+    <ClCompile Include="Chapter6_14.cpp" />
     <ClCompile Include="Chapter6_2.cpp" />
     <ClCompile Include="Chapter6_3.cpp" />
     <ClCompile Include="Chapter6_4.cpp" />
