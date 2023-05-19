@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-int main()
+int main8()
 {
 	Calculator cal(10);
 	cal.add(10).sub(10).mult(2).print();
