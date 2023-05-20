@@ -33,7 +33,7 @@ public:
 		return out;
 	}
 };
-int main()
+int main5()
 {
 	int a = 10;
 
