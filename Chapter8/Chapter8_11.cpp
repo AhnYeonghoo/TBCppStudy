@@ -36,7 +36,7 @@ public:
 
 int Something::value_ = 1024;
 
-int main()
+int main11()
 {
 	cout << Something::getValue() << endl;
 

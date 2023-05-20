@@ -131,6 +131,10 @@
     <ClCompile Include="Chapter8_1.cpp" />
     <ClCompile Include="Chapter8_10.cpp" />
     <ClCompile Include="Chapter8_11.cpp" />
+    <ClCompile Include="Chapter8_12.cpp" />
+    <ClCompile Include="Chapter8_13.cpp" />
+    <ClCompile Include="Chapter8_14.cpp" />
+    <ClCompile Include="Chapter8_15.cpp" />
     <ClCompile Include="Chapter8_2.cpp" />
     <ClCompile Include="Chapter8_3.cpp" />
     <ClCompile Include="Chapter8_4.cpp" />
