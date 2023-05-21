@@ -15,9 +15,9 @@ int multiply(int x, int y)
 }
 
 
-int main()
+int main5()
 {
-	int x, y;
+	int x = 0, y = 0;
 	int op;
 	cout << "0. add, 1.: subtract, 2: multiply " << endl;
 	cin >> op;
