@@ -130,13 +130,19 @@
     <ClCompile Include="chapter10_1.cpp" />
     <ClCompile Include="chapter10_2.cpp" />
     <ClCompile Include="chapter10_3.cpp" />
+    <ClCompile Include="chapter10_4.cpp" />
+    <ClCompile Include="chapter10_5.cpp" />
+    <ClCompile Include="chapter10_6.cpp" />
     <ClCompile Include="Teacher.h" />
+    <ClCompile Include="Worker.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lecture.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="Position2D.h" />
     <ClInclude Include="Student.h" />
+    <ClInclude Include="Timer.h" />
+    <ClInclude Include="Worker.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
