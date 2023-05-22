@@ -38,7 +38,7 @@ public:
 };
 
 
-int main()
+int main8()
 {
 	Copier cop(1, 2, 3);
 	

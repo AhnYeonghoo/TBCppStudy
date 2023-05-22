@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="chapter12_1.cpp" />
+    <ClCompile Include="chapter12_10.cpp" />
+    <ClCompile Include="chapter12_11.cpp" />
     <ClCompile Include="chapter12_2.cpp" />
     <ClCompile Include="chapter12_3.cpp" />
     <ClCompile Include="chapter12_4.cpp" />
@@ -135,6 +137,7 @@
     <ClCompile Include="chapter12_6.cpp" />
     <ClCompile Include="chapter12_7.cpp" />
     <ClCompile Include="chapter12_8.cpp" />
+    <ClCompile Include="chapter12_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
