@@ -12,7 +12,7 @@ void doSomething()
 	return;
 }
 
-int main()
+int main1()
 {
 	doSomething();
 	{
