@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cfd3f103-c38e-4a48-be28-9e9a975b66b6}</ProjectGuid>
-    <RootNamespace>Chapter15</RootNamespace>
+    <ProjectGuid>{6b023b5b-f27a-400b-a258-696e5d7dbbdc}</ProjectGuid>
+    <RootNamespace>Chapter18</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,16 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chapter15_1.cpp" />
-    <ClCompile Include="chapter15_2.cpp" />
-    <ClCompile Include="chapter15_3.cpp" />
-    <ClCompile Include="chapter15_4.cpp" />
-    <ClCompile Include="chapter15_5.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="AutoPtr.h" />
-    <ClInclude Include="Resource.h" />
-    <ClInclude Include="Timer.h" />
+    <ClCompile Include="chapter18_1.cpp" />
+    <ClCompile Include="chapter18_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
