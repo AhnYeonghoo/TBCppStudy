@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
 	cout.unsetf(std::ios::dec);
 	cout << 108 << endl;

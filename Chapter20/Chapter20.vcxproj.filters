@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="chapter18_2.cpp">
+    <ClCompile Include="chapter20_1.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chapter18_1.cpp">
+    <ClCompile Include="chapter20_4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="chapter18_3.cpp">
+    <ClCompile Include="baekjoon10815.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="baekjoon10989.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
