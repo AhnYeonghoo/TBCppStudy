@@ -5,7 +5,7 @@
 #include <mutex>
 using namespace std;
 
-int shared_memory(0);
+atomic<int> shared_memory(0);
 
 int main()
 {
