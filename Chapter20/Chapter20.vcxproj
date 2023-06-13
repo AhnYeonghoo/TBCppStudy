@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="baekjoon10815.cpp" />
     <ClCompile Include="baekjoon10989.cpp" />
+    <ClCompile Include="chapter19_5.cpp" />
     <ClCompile Include="chapter19_4.cpp" />
     <ClCompile Include="chapter20_1.cpp" />
     <ClCompile Include="chapter20_4.cpp" />

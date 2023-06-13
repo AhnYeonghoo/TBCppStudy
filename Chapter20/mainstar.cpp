@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int mainstar()
 {
 	Marine* marines[100];
 	marines[0] = new Marine(2, 3);
@@ -19,4 +19,6 @@ int main()
 
 	delete marines[0];
 	delete marines[1];
+
+	return 0;
 }
