@@ -132,6 +132,18 @@
     <ClCompile Include="chapter19_4.cpp" />
     <ClCompile Include="chapter20_1.cpp" />
     <ClCompile Include="chapter20_4.cpp" />
+    <ClCompile Include="Database.cpp" />
+    <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="mainstar.cpp" />
+    <ClCompile Include="marine.cpp" />
+    <ClCompile Include="photon_cannon.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Database.hpp" />
+    <ClInclude Include="Employee.hpp" />
+    <ClInclude Include="marine.hpp" />
+    <ClInclude Include="photon_cannon.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

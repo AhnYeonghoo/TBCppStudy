@@ -7,7 +7,7 @@ using namespace std;
 
 atomic<int> shared_memory(0);
 
-int main()
+int main24()
 {
 	auto count_func = []()
 	{

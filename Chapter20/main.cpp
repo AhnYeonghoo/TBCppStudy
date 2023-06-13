@@ -10,7 +10,7 @@ void doFire(Database& db);
 void doPromote(Database& db);
 void doDemote(Database& db);
 
-int main()
+int main1()
 {
 	Database employeeDB;
 	
